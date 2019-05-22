@@ -1,5 +1,5 @@
 # Web API, Azure AD, Python
-This code example demonstrates how to use Authlib with Python to create a Web API that is secured with Azure AD.
+This code example demonstrates how to use [Authlib](https://authlib.org/) with Python to create a Web API that is secured with Azure AD.
 
 ## Setup
 
